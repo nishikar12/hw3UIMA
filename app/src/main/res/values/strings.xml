@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lifecycle</string>
+    <string name="time_zone_converter">Time Zone Converter</string>
+    <string name="currTimeZone">Current Time Zone</string>
+    <string name="origTime">Original Time</string>
+    <string name="homeTimeZone">Home Time Zone</string>
+    <string name="convTime">Converted Time</string>
+</resources>
